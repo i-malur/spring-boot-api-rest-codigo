@@ -1,7 +1,7 @@
 
 ## VOLLMED
-repositório com código criado pelo instrutor alura para os cursos de Spring Boot 3
-O repositório terá adequações
+repositório com código criado pelo instrutor alura para os cursos de Spring Boot 3  
+Após o estudo e aquedações, este repositório será alterado
 
 
 ## 💻 Sobre o projeto
